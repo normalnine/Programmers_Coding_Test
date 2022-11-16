@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="A_Difference_Two_Number.cpp">
+    <ClCompile Include="A_Difference_of_Two_Number.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="A_Addition_Two_Number.cpp">
+    <ClCompile Include="A_Sum_of_Two_Number.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
