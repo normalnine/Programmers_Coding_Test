@@ -15,10 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Difference_of_Two_Number.cpp">
+    <ClCompile Include="difference_of_two_numbers.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Sum_of_Two_Number.cpp">
+    <ClCompile Include="sum_of_two_numbers.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="product_of_two_numbers.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="getting_division_quotient.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="find_the_remainder.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="compare_numbers.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="age_output.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -139,8 +139,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Sum_of_Two_Number.cpp" />
-    <ClCompile Include="Difference_of_Two_Number.cpp" />
+    <ClCompile Include="compare_numbers.cpp" />
+    <ClCompile Include="find_the_remainder.cpp" />
+    <ClCompile Include="getting_division_quotient.cpp" />
+    <ClCompile Include="sum_of_two_numbers.cpp" />
+    <ClCompile Include="difference_of_two_numbers.cpp" />
+    <ClCompile Include="product_of_two_numbers.cpp" />
+    <ClCompile Include="age_output.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
