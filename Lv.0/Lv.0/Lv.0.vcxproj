@@ -139,8 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="A_Sum_of_Two_Number.cpp" />
-    <ClCompile Include="A_Difference_of_Two_Number.cpp" />
+    <ClCompile Include="Sum_of_Two_Number.cpp" />
+    <ClCompile Include="Difference_of_Two_Number.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
